@@ -1,0 +1,7 @@
+name: HideOwnNametag
+version: 1.0
+main: me.yourname.hideownnametag.HideOwnNametagPlugin
+api-version: 1.16
+depend: [ProtocolLib]
+author: YourName
+description: Hides a player's own nametag from their client using ProtocolLib.
